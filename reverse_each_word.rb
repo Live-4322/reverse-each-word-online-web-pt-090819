@@ -1,3 +1,4 @@
+def reverse_each_word
 puts "Hello there, and how are you?"
-puts upcase.reverse
+puts reverse_each_word.upcase.reverse
 end
